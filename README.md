@@ -1,4 +1,4 @@
-<img src="Imagens/logo do instagram_9.png" alt="logo" style="width: 300;"/>
+<img src="Imagens/logo do instagram_9.png" alt="logo" style="width: 100;"/>
 
 <h1>Instagram</h1>
 
