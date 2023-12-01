@@ -320,6 +320,13 @@ body {
     .site {
         width: 100%;
     }
+    .principal {
+        width: 100%;
+    }
+    .principal .feed .post .imagem img {
+        width: 100%;
+        height: auto;
+    }
     .stories {
         background: none;
         border: none;
